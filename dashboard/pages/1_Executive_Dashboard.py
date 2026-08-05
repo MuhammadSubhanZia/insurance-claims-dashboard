@@ -6,7 +6,6 @@ sys.path.append(
 )
 
 import streamlit as st
-
 from src.helpers import (
     load_data,
     executive_kpis,
